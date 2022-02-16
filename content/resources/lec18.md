@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information on modular acoustic velocity sensor
   - a commercial prototype.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/7b03e6a73c97d7212ab3f17aa6c84f6e_lec18.pdf
+file: /media/courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/7b03e6a73c97d7212ab3f17aa6c84f6e_lec18.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: lec18.pdf
 uid: 7b03e6a7-3c97-d721-2ab3-f17aa6c84f6e

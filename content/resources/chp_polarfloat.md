@@ -5,12 +5,14 @@ description: These torpedo-shaped instruments, called polar profiling floats, dr
   and salinity. The floats are programmed to rise to the surface periodically and
   send data via satellite to scientists on shore. (Photo by Peter Winsor. Courtesy
   of Woods Hole Oceanographic Institution. Used with permission.)
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/af6cfdec4615f43e9f1378431c3a16d0_chp_polarfloat.jpg
+file: /media/courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/af6cfdec4615f43e9f1378431c3a16d0_chp_polarfloat.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: chp_polarfloat.jpg
 uid: af6cfdec-4615-f43e-9f13-78431c3a16d0

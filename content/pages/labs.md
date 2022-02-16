@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: f72a36f9-0c63-38b0-12b3-8beff34cccc4
 ---
@@ -53,7 +56,7 @@ Lab 14 - Oral and Written Presentation/Report of Cruise Results
 
 Photos from the Cruise Labs
 ---------------------------
-{{< image-gallery id="f72a36f9-0c63-38b0-12b3-8beff34cccc4_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/" >}}
+{{< image-gallery id="f72a36f9-0c63-38b0-12b3-8beff34cccc4_nanogallery2" baseUrl="/courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/" >}}
 {{< image-gallery-item href="6cae384d918b359d16aa4eb060681adb_100_0024.jpg" data-ngdesc="Tripod to support instruments for measuring current, waves, and water properties with acoustic command release and pop-up recovery float. Photo by Dr. Albert J. Williams 3rd." text="Tripod to support instruments for measuring current, waves, and water properties with acoustic command release and pop-up recovery float." >}}
 {{< image-gallery-item href="57a0bce883d797bd171489017f3001e3_100_0028.jpg" data-ngdesc="Bottom tripod with two acoustic command releases and two pop-up floats for recovery. MAVS current meter is supported at apex and Ocean Sensor CTD is supported on far leg. Weichang Li is facing the camera. Photo by Dr. Albert J. Williams 3rd." text="Bottom tripod with two acoustic command releases and two pop-up floats for recovery. MAVS current meter is supported at apex and Ocean Sensor CTD is supported on far leg. Weichang Li is facing the camera." >}}
 {{< image-gallery-item href="0a55bcd8c24643d4b344fe26ef729885_100_0030.jpg" data-ngdesc="MAVS current meter with differential acoustic travel-time sensor using the two rings for transducer support. An inductive conductivity cell in orange and a stainless steel needle permit salinity and temperature to be measured. Paper towelling collects drips from the pressure sensor filled with oil on the end cap. Weichang Li looking on. Photo by Dr. Albert J. Williams 3rd." text="MAVS current meter with differential acoustic travel-time sensor using the two rings for transducer support. An inductive conductivity cell in orange and a stainless steel needle permit salinity and temperature to be measured. Paper towelling collects drips from the pressure sensor filled with oil on the end cap. Weichang Li looking on." >}}
