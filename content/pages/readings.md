@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The readings section contains information about course notes and supplemental
+  readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -41,9 +43,9 @@ L1
 Introduction to Class, Requirements and get Student Interests/Focus
 {{< tdclose >}}
 {{< tdopen >}}
-Irish - Introduction to the Course ([PDF]({{< baseurl >}}/resources/lec1_irish))  
+Irish - Introduction to the Course ({{% resource_link 49c97757-2f00-6392-85b8-9d8f3ff28514 "PDF" %}})  
   
-Williams - Instrument Systems and Limits to Measurement ([PDF]({{< baseurl >}}/resources/lec1_2))
+Williams - Instrument Systems and Limits to Measurement ({{% resource_link 8ca1aa7e-2f91-82e0-b113-b2b03bee4daf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -66,9 +68,9 @@ Transducers, Instrument Systems and Limits to Measurements
 {{< tdopen >}}
 
 
-Irish - Instrumentation Specifications ([PDF]({{< baseurl >}}/resources/lec2_irish))  
+Irish - Instrumentation Specifications ({{% resource_link daeded41-eca2-345b-5a32-04f344576157 "PDF" %}})  
   
-Williams - Instrument Systems and Limits to Measurement ([PDF]({{< baseurl >}}/resources/lec1_2))
+Williams - Instrument Systems and Limits to Measurement ({{% resource_link 8ca1aa7e-2f91-82e0-b113-b2b03bee4daf "PDF" %}})
 
 
 {{< tdclose >}}
@@ -106,7 +108,7 @@ L3
 Introduction to Sampling Theory, Statistics, Fourier Transforms, Filters and Filtering
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Sampling Theory and Data Analysis ([PDF]({{< baseurl >}}/resources/part1_smplngthry))
+Introduction to Sampling Theory and Data Analysis ({{% resource_link 6f74bf55-3a3e-e533-5d1b-39350ceb5647 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Irish
@@ -121,7 +123,7 @@ L4
 Filters and Filtering (cont.), Sampling Theorem, Aliasing, Nyquist Frequency
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Sampling Theory and Data Analysis ([PDF]({{< baseurl >}}/resources/part1_smplngthry))
+Introduction to Sampling Theory and Data Analysis ({{% resource_link 6f74bf55-3a3e-e533-5d1b-39350ceb5647 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Irish
@@ -151,7 +153,7 @@ L5
 Power Spectra, Coherence, Confidence Limits
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Sampling Theory and Data Analysis ([PDF]({{< baseurl >}}/resources/part1_smplngthry))
+Introduction to Sampling Theory and Data Analysis ({{% resource_link 6f74bf55-3a3e-e533-5d1b-39350ceb5647 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Irish
@@ -183,9 +185,9 @@ Digitizing, Ideal A/C, Frequency Counting, Least Count Error
 {{< tdopen >}}
 
 
-The Sampling Process ([PDF]({{< baseurl >}}/resources/part2_smplingpro))  
+The Sampling Process ({{% resource_link 91fd1c49-b05b-f805-b0d7-057cf45cf230 "PDF" %}})  
   
-Sampling the Environment Properly ([PDF]({{< baseurl >}}/resources/part3_smp_enviro))
+Sampling the Environment Properly ({{% resource_link 134d1c6e-4ffa-759b-e1c1-fc91bdded5d8 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -202,7 +204,7 @@ L7
 Calibrations, Static, Dynamic and Sensor Response
 {{< tdclose >}}
 {{< tdopen >}}
-Calibrations: Static and Dynamic ([PDF]({{< baseurl >}}/resources/part4_calibratio))
+Calibrations: Static and Dynamic ({{% resource_link 20a32a86-7e23-7588-f51f-3b5a9ce6d0f7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Irish
@@ -232,7 +234,7 @@ L8
 Sensor Noise, Signal to Noise and Frequency Response Effects
 {{< tdclose >}}
 {{< tdopen >}}
-Instrumentation Specifications ([PDF]({{< baseurl >}}/resources/lec2_irish))
+Instrumentation Specifications ({{% resource_link daeded41-eca2-345b-5a32-04f344576157 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Irish
@@ -249,10 +251,10 @@ Sea Water Properties, Distributions, Equation of State of Sea Water
 {{< tdopen >}}
 
 
-Measurement of the Physical Properties of Seawater ([PDF]({{< baseurl >}}/resources/seawater))  
+Measurement of the Physical Properties of Seawater ({{% resource_link 6d3ff3ae-d03a-1921-6c0c-1bba1651060b "PDF" %}})  
   
 _Supplemental Reading_  
-Williams - Water Properties, CTD and High Precision Digitizers ([PDF]({{< baseurl >}}/resources/lec9_12))
+Williams - Water Properties, CTD and High Precision Digitizers ({{% resource_link b675ccba-212b-63d2-4c80-019eb8531770 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -286,10 +288,10 @@ Pressure - Temperature Sensors/Measurements and Standards
 {{< tdopen >}}
 
 
-Measurement of the Physical Properties of Seawater ([PDF]({{< baseurl >}}/resources/seawater))  
+Measurement of the Physical Properties of Seawater ({{% resource_link 6d3ff3ae-d03a-1921-6c0c-1bba1651060b "PDF" %}})  
   
 _Supplemental Reading  
-_Williams - Water Properties, CTD and High Precision Digitizers ([PDF]({{< baseurl >}}/resources/lec9_12))
+_Williams - Water Properties, CTD and High Precision Digitizers ({{% resource_link b675ccba-212b-63d2-4c80-019eb8531770 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -308,10 +310,10 @@ Conductivity/Salinity Sensors/Measurements and Standards
 {{< tdopen >}}
 
 
-Measurement of the Physical Properties of Seawater ([PDF]({{< baseurl >}}/resources/seawater))  
+Measurement of the Physical Properties of Seawater ({{% resource_link 6d3ff3ae-d03a-1921-6c0c-1bba1651060b "PDF" %}})  
   
 _Supplemental Reading  
-_Williams - Water Properties, CTD and High Precision Digitizers ([PDF]({{< baseurl >}}/resources/lec9_12))
+_Williams - Water Properties, CTD and High Precision Digitizers ({{% resource_link b675ccba-212b-63d2-4c80-019eb8531770 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -343,10 +345,10 @@ L12
 CTDs - Profiling, Towed, Self-contained
 {{< tdclose >}}
 {{< tdopen >}}
-Measurement of the Physical Properties of Seawater ([PDF]({{< baseurl >}}/resources/seawater))  
+Measurement of the Physical Properties of Seawater ({{% resource_link 6d3ff3ae-d03a-1921-6c0c-1bba1651060b "PDF" %}})  
   
 _Supplemental Reading  
-_Williams - Water Properties, CTD and High Precision Digitizers ([PDF]({{< baseurl >}}/resources/lec9_12))
+_Williams - Water Properties, CTD and High Precision Digitizers ({{% resource_link b675ccba-212b-63d2-4c80-019eb8531770 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Irish
@@ -406,7 +408,7 @@ L15
 Data Systems, Recorders, A/D's, Microprocessors and Telemetry
 {{< tdclose >}}
 {{< tdopen >}}
-Williams - Microprocessors, Embedded Processors, Modern Sensing Systems ([PDF]({{< baseurl >}}/resources/lec15))
+Williams - Microprocessors, Embedded Processors, Modern Sensing Systems ({{% resource_link 9a3d717c-60d9-6578-bfd7-dfa48d7b6e8f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Al Bradley
@@ -436,7 +438,7 @@ L16
 Eulerian Current Meters - VACM, VMCM, ACM, BASS
 {{< tdclose >}}
 {{< tdopen >}}
-Eulerian Current Measurements and the Acoustic Current Meter ([PDF]({{< baseurl >}}/resources/lec16))
+Eulerian Current Measurements and the Acoustic Current Meter ({{% resource_link fdba55b1-69e2-5909-9d17-54b3fcb4ef4b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Williams
@@ -451,7 +453,7 @@ L17
 Lagrangian Currents - Draper LCD, TriStar, Swallow Float, SOFAR, RAFOS
 {{< tdclose >}}
 {{< tdopen >}}
-Lagrangian Current Measurements and Integrating Current Meters ([PDF]({{< baseurl >}}/resources/lec17))
+Lagrangian Current Measurements and Integrating Current Meters ({{% resource_link 94c1576e-b58d-42af-0c2a-af2d9a3fca6c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Williams
@@ -481,7 +483,7 @@ L18
 Acoustic Current Meters - ADV, ADCP, LDV
 {{< tdclose >}}
 {{< tdopen >}}
-Modular Acoustic Velocity Sensor - A Commercial Prototype ([PDF]({{< baseurl >}}/resources/lec18))
+Modular Acoustic Velocity Sensor - A Commercial Prototype ({{% resource_link 7b03e6a7-3c97-d721-2ab3-f17aa6c84f6e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Williams
@@ -601,7 +603,7 @@ L23
 Bio-optical - Fluorometers, Transmissometers, OBS, Radiometers, PAR
 {{< tdclose >}}
 {{< tdopen >}}
-Williams - Optical Instrumentation ([PDF]({{< baseurl >}}/resources/lec23))
+Williams - Optical Instrumentation ({{% resource_link 8eff3ebb-af7a-7059-1cd3-35b3a0779e87 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Peter Traykovski
@@ -631,7 +633,7 @@ L24
 Remote Sensing - Satellite, Radar, VHF Radar, LDV, ADCP, and ADV
 {{< tdclose >}}
 {{< tdopen >}}
-Remote Sensing ([PDF]({{< baseurl >}}/resources/lec24))
+Remote Sensing ({{% resource_link bec19d84-e1d7-e684-1361-b6a5b6127982 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Williams
@@ -648,9 +650,9 @@ Other Topics of Student Interest
 {{< tdopen >}}
 
 
-Optical Sensors Shadowgraph and Nephelometer ([PDF]({{< baseurl >}}/resources/lec25))  
+Optical Sensors Shadowgraph and Nephelometer ({{% resource_link bc43e883-9303-7b8a-3650-2c2f3d03cee3 "PDF" %}})  
   
-Economics of Instrumentation ([PDF]({{< baseurl >}}/resources/lec25b))
+Economics of Instrumentation ({{% resource_link 77c189cc-b98a-5e8c-0d70-dbe2d03126ec "PDF" %}})
 
 
 {{< tdclose >}}
@@ -680,11 +682,11 @@ Oral Presentations and Written Reports of Cruise Results
 {{< anchor "Supplemental_Readings" >}}{{< /anchor >}}Supplemental Readings
 --------------------------------------------------------------------------
 
-References for Spring 2004 ([PDF]({{< baseurl >}}/resources/references_2004))
+References for Spring 2004 ({{% resource_link ee9e5564-dc9d-6499-419f-2d19031f88b9 "PDF" %}})
 
-Reading List from Spring 2000 ([PDF]({{< baseurl >}}/resources/readings_2000))
+Reading List from Spring 2000 ({{% resource_link 663c5afd-4d63-daf4-b6cd-506d2bdf9e5a "PDF" %}})
 
-The Art of Oceanographic Instrumentation ([PDF]({{< baseurl >}}/resources/will_a_instrumt)).  
+The Art of Oceanographic Instrumentation ({{% resource_link c97e0bd8-204b-d7a7-980f-b339bd5cf259 "PDF" %}}).  
 This manuscript by Dr. Williams contains the first five chapters of a work-in-progress book.
 
 *   Introduction

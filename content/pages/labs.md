@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The lab section discusses about background labs and cruise labs.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -22,12 +23,12 @@ Lab 3 - MAVS Circuit Analysis, Discussion, Testing
 
 Lab 4 - Materials for Use in Ocean
 
-*   Materials, Corrosion, Pressure Cases, O-rings, Underwater Cables, Connectors, Splices ([PDF]({{< baseurl >}}/resources/lab4_materials))
-*   Power, Batteries (Lithium, Alkaline, Sealed Lead Acid, NiCad, Primary, Rechargeable), Solar, Wind ([PDF]({{< baseurl >}}/resources/lab4_power))
+*   Materials, Corrosion, Pressure Cases, O-rings, Underwater Cables, Connectors, Splices ({{% resource_link d8384045-c47b-6125-786e-d1f8cfe918ad "PDF" %}})
+*   Power, Batteries (Lithium, Alkaline, Sealed Lead Acid, NiCad, Primary, Rechargeable), Solar, Wind ({{% resource_link 14a22c04-89c2-7154-539c-c87f4b7b590b "PDF" %}})
 
-Lab 5 - Compass, Tilt, Motion, Acoustic Releases, Pingers, Acoustic Locators ([PDF]({{< baseurl >}}/resources/lab5))
+Lab 5 - Compass, Tilt, Motion, Acoustic Releases, Pingers, Acoustic Locators ({{% resource_link 0ffa67af-2506-316e-0b46-324a5c014aec "PDF" %}})
 
-Labs 6 and 7 - Calibrations: Temperature and Sensor Frequency Response in AEL Cal Tank; Pressure (Dead Weight Tester); CTD with Period Counting Technique ([PDF]({{< baseurl >}}/resources/lab6_7_calibratn))
+Labs 6 and 7 - Calibrations: Temperature and Sensor Frequency Response in AEL Cal Tank; Pressure (Dead Weight Tester); CTD with Period Counting Technique ({{% resource_link e94746e5-bee9-6ba7-8b8d-7e15cfe00086 "PDF" %}})
 
 Cruise Labs (Labs 8 to 14)
 --------------------------
@@ -48,7 +49,7 @@ Labs 8 and 9 - Instruments - individual groups work on
 
 Lab 10 - Final Instrument Preparation/Checkout
 
-Labs 11 and 12 - Deploy Instruments and Survey (ADCP and CTD) from TIOGA/ASTERIAS; Recover Instruments ([PDF]({{< baseurl >}}/resources/cruiseplan2004))
+Labs 11 and 12 - Deploy Instruments and Survey (ADCP and CTD) from TIOGA/ASTERIAS; Recover Instruments ({{% resource_link b5fbddf2-973e-cc5e-3a12-6612b0356123 "PDF" %}})
 
 Lab 13 - Analysis/Discussion
 
