@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section discusses about course goals, lectures, laboratory,
+  readings, other coursework, grading and calendar.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 5d622ba6-062d-71b4-4ab0-2d6708e22250
 ---
