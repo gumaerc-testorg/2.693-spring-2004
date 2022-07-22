@@ -6,6 +6,7 @@ file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab4_power.pdf
 uid: 14a22c04-89c2-7154-539c-c87f4b7b590b
 ---
 this resource contains information on batteries , solar power, wind power and measurement of power requirement and estimation of battery needs.
-

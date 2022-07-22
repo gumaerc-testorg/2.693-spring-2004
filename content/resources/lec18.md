@@ -6,6 +6,7 @@ file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec18.pdf
 uid: 7b03e6a7-3c97-d721-2ab3-f17aa6c84f6e
 ---
 This resource contains information on modular acoustic velocity sensor - a commercial prototype.
-

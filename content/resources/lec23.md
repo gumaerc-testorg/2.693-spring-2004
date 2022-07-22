@@ -6,6 +6,7 @@ file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec23.pdf
 uid: 8eff3ebb-af7a-7059-1cd3-35b3a0779e87
 ---
 This resource contains information on optical instrumentation of transmissometer, radiometer, spectral radiometer and in-situ flow cytometer.
-

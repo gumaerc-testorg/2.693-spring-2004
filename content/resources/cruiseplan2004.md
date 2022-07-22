@@ -5,6 +5,7 @@ file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cruiseplan2004.pdf
 uid: b5fbddf2-973e-cc5e-3a12-6612b0356123
 ---
 This resource contains detailed information on class cruise plan.
-

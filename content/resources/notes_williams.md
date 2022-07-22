@@ -6,6 +6,7 @@ file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: notes_williams.pdf
 uid: 9752c8f3-5620-ae8f-5dea-0992f2805a1e
 ---
 This resource contains information about introduction, outline and lecture notes.
-

@@ -6,6 +6,7 @@ file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec16.pdf
 uid: fdba55b1-69e2-5909-9d17-54b3fcb4ef4b
 ---
 This resource contains information on eulerian current measurements and the acoustic current meter.
-

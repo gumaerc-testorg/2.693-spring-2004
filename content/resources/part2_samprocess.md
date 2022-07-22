@@ -6,6 +6,7 @@ file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: part2_samprocess.pdf
 uid: e030010c-381a-b725-7189-f544b7162bb9
 ---
 This resource contains information about Nyquist frequency and discrete statistical descriptions.
-

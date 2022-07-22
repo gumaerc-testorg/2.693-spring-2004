@@ -7,6 +7,7 @@ file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: part1_smplngthry.pdf
 uid: 6f74bf55-3a3e-e533-5d1b-39350ceb5647
 ---
 This resource contains suggested references and readings and discusses about background, properties of random variables and time - frequency domain description of a process.
-

@@ -6,6 +6,7 @@ file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec1_irish.pdf
 uid: 49c97757-2f00-6392-85b8-9d8f3ff28514
 ---
 This resource giving introduction about oceanography, objective of an ocean observing program, measurements to consider and temperature.
-

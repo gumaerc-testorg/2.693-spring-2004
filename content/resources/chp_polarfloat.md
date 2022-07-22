@@ -12,10 +12,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_polarfloat.jpg
 uid: af6cfdec-4615-f43e-9f13-78431c3a16d0
 ---
 These torpedo-shaped instruments, called polar profiling floats, drift nose-up at various depths through the Arctic Ocean while measuring water temperature and salinity. The floats are programmed to rise to the surface periodically and send data via satellite to scientists on shore. (Photo by Peter Winsor. Courtesy of Woods Hole Oceanographic Institution. Used with permission.)
-

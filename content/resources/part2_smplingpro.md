@@ -7,6 +7,7 @@ file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: part2_smplingpro.pdf
 uid: 91fd1c49-b05b-f805-b0d7-057cf45cf230
 ---
 This resource discusses about the sampler, scaling, Nyquist frequency (folding frequency), discrete statistical descriptions and the discrete fourier transform.
-

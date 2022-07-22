@@ -8,6 +8,7 @@ file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 54d9feab-9d5b-02bf-32e2-71ddfcbbbfd7
 ---
 This resource contains information about
 random variables, time-frequency domain description of a Process, Fourier transforms and convolution product and filters.
-

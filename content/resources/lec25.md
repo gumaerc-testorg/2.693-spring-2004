@@ -6,6 +6,7 @@ file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec25.pdf
 uid: bc43e883-9303-7b8a-3650-2c2f3d03cee3
 ---
 This resource contains information on optical sensors like shadowgraph and nephelometer.
-

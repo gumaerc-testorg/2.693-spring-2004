@@ -6,6 +6,7 @@ file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: will_a_instrumt.pdf
 uid: c97e0bd8-204b-d7a7-980f-b339bd5cf259
 ---
 This resource discusses about contents, introduction, capturing the signal, measurement, conditioning and personal experience.
-

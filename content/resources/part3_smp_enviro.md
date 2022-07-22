@@ -6,6 +6,7 @@ file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: part3_smp_enviro.pdf
 uid: 134d1c6e-4ffa-759b-e1c1-fc91bdded5d8
 ---
 This resource discusses about digitizing effects, digitizing error in frequency and period counting techniques.
-

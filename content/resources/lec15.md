@@ -6,6 +6,7 @@ file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec15.pdf
 uid: 9a3d717c-60d9-6578-bfd7-dfa48d7b6e8f
 ---
 This resource contains information on microprocessors, embedded processors and modern sensing systems.
-

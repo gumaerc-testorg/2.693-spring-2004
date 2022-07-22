@@ -6,6 +6,7 @@ file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec1_2.pdf
 uid: 8ca1aa7e-2f91-82e0-b113-b2b03bee4daf
 ---
 This resource discusses about the instrument systems and limits to measurement and contains three problem sets based on noise and sampling.
-

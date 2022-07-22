@@ -5,6 +5,7 @@ file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec25b.pdf
 uid: 77c189cc-b98a-5e8c-0d70-dbe2d03126ec
 ---
 This resource contains information on economics of instrumentation.
-

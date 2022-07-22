@@ -6,6 +6,7 @@ file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec17.pdf
 uid: 94c1576e-b58d-42af-0c2a-af2d9a3fca6c
 ---
 This resource contains information on lagrangian current measurements and integrating current meters.
-
