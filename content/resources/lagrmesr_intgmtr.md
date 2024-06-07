@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem set for Lagrangian current measurements
   and integrating current meters.
 file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/040f471be3256b1f654a5e5ca83def7e_lagrmesr_intgmtr.pdf
+file_size: 66587
 file_type: application/pdf
 learning_resource_types:
 - Assignments

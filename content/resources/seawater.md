@@ -5,6 +5,7 @@ description: This resource discusses about characteristics and circulation patte
   the forces which cause the water movement and ultimately the distribution of the
   water properties.
 file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/6d3ff3aed03a19216c0c1bba1651060b_seawater.pdf
+file_size: 129221
 file_type: application/pdf
 learning_resource_types:
 - Readings
