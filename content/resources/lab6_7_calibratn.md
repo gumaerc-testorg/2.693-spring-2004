@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/e94746e5bee96ba78b8d7e15cfe00086_lab6_7_calibratn.pdf
+file_size: 15271
 file_type: application/pdf
 learning_resource_types:
 - Labs

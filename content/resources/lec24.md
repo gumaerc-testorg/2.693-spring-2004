@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains detailed information on remote sensing.
 file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/bec19d84e1d7e6841361b6a5b6127982_lec24.pdf
+file_size: 16720
 file_type: application/pdf
 learning_resource_types:
 - Readings
