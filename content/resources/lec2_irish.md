@@ -3,6 +3,7 @@ content_type: resource
 description: This resource discusses about sensor/instrument specification definitions,
   range, accuracy, resolution, repeatability, drift, hysteresis, and stability.
 file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/daeded41eca2345b5a3204f344576157_lec2_irish.pdf
+file_size: 296073
 file_type: application/pdf
 learning_resource_types:
 - Readings
