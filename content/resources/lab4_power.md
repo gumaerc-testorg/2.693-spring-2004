@@ -2,7 +2,7 @@
 content_type: resource
 description: this resource contains information on batteries , solar power, wind power
   and measurement of power requirement and estimation of battery needs.
-file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/14a22c0489c27154539cc87f4b7b590b_lab4_power.pdf
+file: /ol-ocw-studio-app/courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/14a22c0489c27154539cc87f4b7b590b_lab4_power.pdf
 file_size: 182552
 file_type: application/pdf
 learning_resource_types:

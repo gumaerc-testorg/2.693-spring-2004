@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about Nyquist frequency and discrete
   statistical descriptions.
-file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/e030010c381ab7257189f544b7162bb9_part2_samprocess.pdf
+file: /ol-ocw-studio-app/courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/e030010c381ab7257189f544b7162bb9_part2_samprocess.pdf
 file_size: 267109
 file_type: application/pdf
 learning_resource_types:
