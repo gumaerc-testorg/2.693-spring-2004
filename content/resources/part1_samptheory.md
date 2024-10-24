@@ -4,7 +4,7 @@ description: 'This resource contains information about
 
   random variables, time-frequency domain description of a Process, Fourier transforms
   and convolution product and filters.'
-file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/54d9feab9d5b02bf32e271ddfcbbbfd7_part1_samptheory.pdf
+file: /ol-ocw-studio-app/courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/54d9feab9d5b02bf32e271ddfcbbbfd7_part1_samptheory.pdf
 file_size: 160374
 file_type: application/pdf
 learning_resource_types:
