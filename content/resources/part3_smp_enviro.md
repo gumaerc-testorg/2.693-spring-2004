@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about digitizing effects, digitizing error in
   frequency and period counting techniques.
-file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/134d1c6e4ffa759be1c1fc91bdded5d8_part3_smp_enviro.pdf
+file: /ol-ocw-studio-app/courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/134d1c6e4ffa759be1c1fc91bdded5d8_part3_smp_enviro.pdf
 file_size: 308399
 file_type: application/pdf
 learning_resource_types:
