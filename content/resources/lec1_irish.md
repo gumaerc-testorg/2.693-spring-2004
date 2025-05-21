@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource giving introduction about oceanography, objective of an
   ocean observing program, measurements to consider and temperature.
-file: /ol-ocw-studio-app/courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/49c977572f00639285b89d8f3ff28514_lec1_irish.pdf
+file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/49c977572f00639285b89d8f3ff28514_lec1_irish.pdf
 file_size: 58397
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on optical instrumentation of transmissometer,
   radiometer, spectral radiometer and in-situ flow cytometer.
-file: /ol-ocw-studio-app/courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/8eff3ebbaf7a70591cd335b3a0779e87_lec23.pdf
+file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/8eff3ebbaf7a70591cd335b3a0779e87_lec23.pdf
 file_size: 25319
 file_type: application/pdf
 learning_resource_types:
