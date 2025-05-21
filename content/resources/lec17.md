@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on lagrangian current measurements
   and integrating current meters.
-file: /ol-ocw-studio-app/courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/94c1576eb58d42af0c2aaf2d9a3fca6c_lec17.pdf
+file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/94c1576eb58d42af0c2aaf2d9a3fca6c_lec17.pdf
 file_size: 27535
 file_type: application/pdf
 learning_resource_types:

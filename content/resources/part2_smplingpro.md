@@ -3,7 +3,7 @@ content_type: resource
 description: This resource discusses about the sampler, scaling, Nyquist frequency
   (folding frequency), discrete statistical descriptions and the discrete fourier
   transform.
-file: /ol-ocw-studio-app/courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/91fd1c49b05bf805b0d7057cf45cf230_part2_smplingpro.pdf
+file: /courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/91fd1c49b05bf805b0d7057cf45cf230_part2_smplingpro.pdf
 file_size: 267109
 file_type: application/pdf
 learning_resource_types:
