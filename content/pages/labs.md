@@ -2,7 +2,7 @@
 content_type: page
 description: The lab section discusses about background labs and cruise labs.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: f72a36f9-0c63-38b0-12b3-8beff34cccc4
